@@ -1,4 +1,5 @@
 <?php
-echo "Hello, Adel"
+$name = "Adel"; 
+$work = "Tamkeen";
 
  ?>
