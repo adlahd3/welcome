@@ -1,3 +1,5 @@
 <?php
-echo "Hello, Adel Alahmed";
+$name = "Adel";
+$company = "Tamkeen";
+
  ?>
